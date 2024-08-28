@@ -1,3 +1,3 @@
 # RITIKA-MUNDADA
 My personal repository
-HI THERE 
+# About me 
